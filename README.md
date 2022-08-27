@@ -6,8 +6,8 @@ The purpose of this project was to create a personalized password generator for 
 
 ## Link to Website
 
-[Direct link to webpage]()
+[Direct link to webpage](https://ottobisno.github.io/random-password-generator/)
 
 ## Preview
 
-![A preview of the password generator user interface]()
+![A preview of the password generator user interface](https://github.com/ottobisno/random-password-generator/blob/main/assets/user-interface.png)
